@@ -2,7 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to **Awesome Disclaimers**! A curated collection of clear, practical disclaimer templates for personal websites, blogs, projects, and online portfolios. This repository gathers concise, easy-to-adapt examples covering common needs such as personal opinion statements, liability notices, technical content warnings, licensing notes, and more. 
+Welcome to **Awesome Disclaimers**! A curated collection of clear, practical disclaimer templates for **personal** websites, blogs, projects, and online portfolios. This repository gathers concise, easy-to-adapt **examples** covering common needs such as personal opinion statements, liability notices, technical content warnings, licensing notes, and more. 
+
+**Note: The materials provided here are examples for general informational purposes only and should not be considered legal advice. Consult a licensed professional for critical use cases.**
 
 ## Categories
 
