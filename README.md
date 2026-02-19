@@ -82,6 +82,22 @@ If you use LLMs or AI tools to proofread or edit your content.
 
 > Some posts on this website may be edited or refined with the help of large language models (LLMs). These tools are used to improve clarity, grammar, and structure, but the ideas, opinions, and final editorial decisions remain my own. AI assistance does not replace human judgment, and any errors or omissions are solely my responsibility.
 
+### No AI Assistance Disclaimer
+
+Use this if your content is written and edited without any assistance from LLMs or AI tools.
+
+> Written by a human. No AI-generated text.
+
+> Unless otherwise noted, content is written without AI assistance.
+
+> I write everything here myself — no AI writers, no auto-generated posts, just my own thoughts and words.
+
+> All content on this website is written and edited by me without the use of AI text generators. The ideas, wording, and revisions are entirely human-produced.
+
+> Unless explicitly stated otherwise, posts on this site are created without assistance from AI writing tools. Everything is drafted, edited, and published solely by the author.
+
+> This website’s written content is produced without reliance on artificial intelligence text-generation systems. All authorship and editorial responsibility rest entirely with the site owner.
+
 ### Faith & Religious Content Disclaimer
 
 If you include religious or faith-based content alongside other material.
@@ -97,6 +113,8 @@ If you include religious or faith-based content alongside other material.
 > Some pages on this site may display a randomly selected verse or quotation from a religious text. This is included for personal inspiration and not intended as preaching or persuasion. While I occasionally write about faith and religion, such content reflects my personal perspective and is shared respectfully, not prescriptively.
 
 ### Political Content Disclaimer
+
+If you include politics or public affairs-based content alongside other material.
 
 > Occasional political commentary appears on this site. All opinions are personal.
 
