@@ -12,7 +12,7 @@ Use if you discuss work, research, or professional topics.
 
 > The views expressed on this website are my own and do not reflect those of my employer, past or present.
 
-### Educational / Informational Use Only
+### Educational / Informational Use Disclaimer
 
 Important for tutorials, guides, technical notes, or advice.
 
@@ -36,7 +36,7 @@ Useful for technical tutorials.
 
 > Code examples are provided as-is, without warranty of any kind. Always test in a safe environment before running on production systems.
 
-### Copyright / License Notice
+### Copyright / License Disclaimer
 
 Clarifies reuse rules.
 
@@ -58,7 +58,7 @@ If you link products or monetized content.
 
 > Some links may be affiliate links. I may earn a commission at no additional cost to you.
 
-### Archive / Historical Content Notice
+### Archive / Historical Content Disclaimer
 
 Helpful for long-running personal sites or blog archives.
 
