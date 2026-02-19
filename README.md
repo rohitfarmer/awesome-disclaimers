@@ -96,6 +96,18 @@ If you include religious or faith-based content alongside other material.
 
 > Some pages on this site may display a randomly selected verse or quotation from a religious text. This is included for personal inspiration and not intended as preaching or persuasion. While I occasionally write about faith and religion, such content reflects my personal perspective and is shared respectfully, not prescriptively.
 
+### Political Content Disclaimer
+
+> Occasional political commentary appears on this site. All opinions are personal.
+
+> I sometimes write about politics or public affairs because they interest me. These are simply my personal thoughts and reflections, not attempts to persuade anyone or represent any institution.
+
+> From time to time, this site may discuss political issues or current events. These posts reflect personal opinions and should not be interpreted as official statements, endorsements, or professional advice.
+
+> Any political commentary on this website represents my personal views alone. It does not reflect the positions of any employer, institution, or organization I am affiliated with. Content is shared for discussion and informational purposes only.
+
+> This website may occasionally include commentary on political or public policy topics. Any views expressed are my own and are shared for informational and reflective purposes only. They are not intended to persuade, endorse, or oppose any political party, candidate, or organization.
+
 ## “All-in-One” Disclaimer
 
 If you want something for your footer or About page:
